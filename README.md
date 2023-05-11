@@ -453,7 +453,8 @@ bin_sizes, _, _ = plt.hist(
 ```
 
 
-![png](output_16_0.png)
+![output_16_0](https://github.com/dalemajorjr/python_portfolio/assets/132947457/ee69c7d2-17e1-4b7d-be4b-c31fd902ecf1)
+
 
 
 
@@ -569,8 +570,7 @@ plot(
 ```
 
 
-![png](output_26_0.png)
-
+![output_26_0](https://github.com/dalemajorjr/python_portfolio/assets/132947457/82a51f18-a5c5-4955-a349-cafd3e5b45d2)
 
 
 ```python
@@ -591,7 +591,8 @@ plot(
 ```
 
 
-![png](output_28_0.png)
+![output_28_0](https://github.com/dalemajorjr/python_portfolio/assets/132947457/9be6a697-547f-47b7-aeb7-b4305580a339)
+
 
 
 
@@ -661,7 +662,8 @@ fig.tight_layout()
 ```
 
 
-![png](output_30_0.png)
+![output_30_0](https://github.com/dalemajorjr/python_portfolio/assets/132947457/2208264c-2d16-4dc4-9954-fb68e1f2cb92)
+
 
 ## analyzing_data 
 In this analysis, we looked at inflamation data for multiple patients. 
