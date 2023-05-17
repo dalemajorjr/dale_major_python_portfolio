@@ -1,4 +1,4 @@
-# python_portfolio
+# dale_major_python_portfolio
 This is the portfolio of python code that I learned during MSNT 510.
 
 ## using_a_jupyter_notebook
